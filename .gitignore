@@ -161,3 +161,5 @@ cython_debug/
 DB00295.sdf
 solubility.train.sdf
 solubility.test.sdf
+solubility.test.sdf.1
+solubility.train.sdf.1
