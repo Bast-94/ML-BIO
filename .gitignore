@@ -163,3 +163,4 @@ solubility.train.sdf
 solubility.test.sdf
 solubility.test.sdf.1
 solubility.train.sdf.1
+molecules/250k_smiles.csv
