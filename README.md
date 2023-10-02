@@ -12,4 +12,5 @@ Dépot git contenant les travaux pratiques du Machine Learning pour le biomédic
     - [TP3](molecules/2_pytorch_geometric_molecules_problem_etudiants.ipynb) : Travail sur les molécules avec `pytorch_geometric`.
 - [Travail sur les gènes](genomics) :
      - [TP1](genomics/classify-tf-binding-etudiants.ipynb) : Travail sur l'ADN avec des réseaux de convolution 1D.
+- [Travail sur le Federative Learning](federated-learning):
       
